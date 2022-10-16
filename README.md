@@ -2,6 +2,8 @@
 
 This program will ask you for your name, age, and your height. Once it recieves this information it will inform you if you are tall enough or old enough to ride the ride. If not it informs you that you cannot ride the ride. 
 
+Our program can be used for applications at amusement parks to ensure that only eligible riders can get on the ride. It may be useful if located on the park's website so visitors can check which rides they are able to ride before they arrive avoiding unnecessary congestion in lines. The code 
+
 # Group Members
 * Nico Bartello
 * Ethan Estatico
